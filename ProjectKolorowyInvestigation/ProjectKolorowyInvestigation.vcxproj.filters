@@ -62,6 +62,7 @@
     <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitOption.dfm" />
     <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitPacks.dfm" />
     <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Uwagi OEE dla zmian.docx" />
+    <None Include="E:\Programowanie\BoothClient\BoothClient.dsk" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\AccessCOM.cpp">

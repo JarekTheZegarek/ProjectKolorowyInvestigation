@@ -15,15 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\..\BoothClient\BoothClient.~dsk" />
-    <None Include="..\..\..\..\..\BoothClient\BoothClient.cbproj" />
-    <None Include="..\..\..\..\..\BoothClient\BoothClient.cbproj.local" />
-    <None Include="..\..\..\..\..\BoothClient\BoothClient.dsk" />
-    <None Include="..\..\..\..\..\BoothClient\DataBooth.dfm" />
-    <None Include="..\..\..\..\..\BoothClient\DetailFormBooth.dfm" />
-    <None Include="..\..\..\..\..\BoothClient\UnitAdditionalDefectDetailsFormBooth.dfm" />
-    <None Include="..\..\..\..\..\BoothClient\UnitMainBooth.dfm" />
-    <None Include="..\..\..\..\..\BoothClient\UnitStringGridMagnification.dfm" />
     <None Include="E:\Programowanie\BoothClient\BoothClient.cbproj" />
     <None Include="E:\Programowanie\BoothClient\BoothClient.cbproj.local" />
     <None Include="E:\Programowanie\BoothClient\BoothClient.dsk" />
@@ -34,51 +25,6 @@
     <None Include="E:\Programowanie\BoothClient\UnitStringGridMagnification.dfm" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\BoothClient\BoothClient.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\BoothClient\CommonTableClass.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\BoothClient\DataBooth.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\BoothClient\DetailFormBooth.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\BoothClient\Global.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\BoothClient\GlobalBooth.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\BoothClient\UnitAdditionalDefectDetailsFormBooth.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\BoothClient\UnitMainBooth.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\BoothClient\UnitProduct.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\BoothClient\UnitProductsBooth.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\BoothClient\UnitReadShiftData.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\BoothClient\UnitShiftReading.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\BoothClient\UnitStartUp.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\BoothClient\UnitStartUpBooth.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\BoothClient\UnitStringGridMagnification.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="E:\Programowanie\BoothClient\BoothClient.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -126,52 +72,9 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="..\..\..\..\..\BoothClient\BoothClient.res" />
     <Resource Include="E:\Programowanie\BoothClient\BoothClient.res" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\BoothClient\CommonTableClass.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\..\BoothClient\DataBooth.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\..\BoothClient\DetailFormBooth.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\..\BoothClient\Global.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\..\BoothClient\GlobalBooth.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\..\BoothClient\UnitAdditionalDefectDetailsFormBooth.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\..\BoothClient\UnitMainBooth.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\..\BoothClient\UnitProduct.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\..\BoothClient\UnitProductsBooth.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\..\BoothClient\UnitReadShiftData.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\..\BoothClient\UnitShiftReading.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\..\BoothClient\UnitStartUp.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\..\BoothClient\UnitStartUpBooth.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\..\BoothClient\UnitStringGridMagnification.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="E:\Programowanie\BoothClient\CommonTableClass.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -216,12 +119,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\..\..\BoothClient\jalbum.ico">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="..\..\..\..\..\BoothClient\SMILEY4.ICO">
-      <Filter>Resource Files</Filter>
-    </Image>
     <Image Include="E:\Programowanie\BoothClient\jalbum.ico">
       <Filter>Resource Files</Filter>
     </Image>

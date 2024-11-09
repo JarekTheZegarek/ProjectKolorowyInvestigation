@@ -127,15 +127,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\..\BoothClient\BoothClient.cbproj" />
-    <None Include="..\..\..\..\..\BoothClient\BoothClient.cbproj.local" />
-    <None Include="..\..\..\..\..\BoothClient\BoothClient.dsk" />
-    <None Include="..\..\..\..\..\BoothClient\BoothClient.~dsk" />
-    <None Include="..\..\..\..\..\BoothClient\DataBooth.dfm" />
-    <None Include="..\..\..\..\..\BoothClient\DetailFormBooth.dfm" />
-    <None Include="..\..\..\..\..\BoothClient\UnitAdditionalDefectDetailsFormBooth.dfm" />
-    <None Include="..\..\..\..\..\BoothClient\UnitMainBooth.dfm" />
-    <None Include="..\..\..\..\..\BoothClient\UnitStringGridMagnification.dfm" />
     <None Include="E:\Programowanie\BoothClient\BoothClient.cbproj" />
     <None Include="E:\Programowanie\BoothClient\BoothClient.cbproj.local" />
     <None Include="E:\Programowanie\BoothClient\BoothClient.dsk" />
@@ -146,21 +137,6 @@
     <None Include="E:\Programowanie\BoothClient\UnitStringGridMagnification.dfm" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\BoothClient\BoothClient.cpp" />
-    <ClCompile Include="..\..\..\..\..\BoothClient\CommonTableClass.cpp" />
-    <ClCompile Include="..\..\..\..\..\BoothClient\DataBooth.cpp" />
-    <ClCompile Include="..\..\..\..\..\BoothClient\DetailFormBooth.cpp" />
-    <ClCompile Include="..\..\..\..\..\BoothClient\Global.cpp" />
-    <ClCompile Include="..\..\..\..\..\BoothClient\GlobalBooth.cpp" />
-    <ClCompile Include="..\..\..\..\..\BoothClient\UnitAdditionalDefectDetailsFormBooth.cpp" />
-    <ClCompile Include="..\..\..\..\..\BoothClient\UnitMainBooth.cpp" />
-    <ClCompile Include="..\..\..\..\..\BoothClient\UnitProduct.cpp" />
-    <ClCompile Include="..\..\..\..\..\BoothClient\UnitProductsBooth.cpp" />
-    <ClCompile Include="..\..\..\..\..\BoothClient\UnitReadShiftData.cpp" />
-    <ClCompile Include="..\..\..\..\..\BoothClient\UnitShiftReading.cpp" />
-    <ClCompile Include="..\..\..\..\..\BoothClient\UnitStartUp.cpp" />
-    <ClCompile Include="..\..\..\..\..\BoothClient\UnitStartUpBooth.cpp" />
-    <ClCompile Include="..\..\..\..\..\BoothClient\UnitStringGridMagnification.cpp" />
     <ClCompile Include="E:\Programowanie\BoothClient\BoothClient.cpp" />
     <ClCompile Include="E:\Programowanie\BoothClient\CommonTableClass.cpp" />
     <ClCompile Include="E:\Programowanie\BoothClient\DataBooth.cpp" />
@@ -178,24 +154,9 @@
     <ClCompile Include="E:\Programowanie\BoothClient\UnitStringGridMagnification.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="..\..\..\..\..\BoothClient\BoothClient.res" />
     <Resource Include="E:\Programowanie\BoothClient\BoothClient.res" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\BoothClient\CommonTableClass.h" />
-    <ClInclude Include="..\..\..\..\..\BoothClient\DataBooth.h" />
-    <ClInclude Include="..\..\..\..\..\BoothClient\DetailFormBooth.h" />
-    <ClInclude Include="..\..\..\..\..\BoothClient\Global.h" />
-    <ClInclude Include="..\..\..\..\..\BoothClient\GlobalBooth.h" />
-    <ClInclude Include="..\..\..\..\..\BoothClient\UnitAdditionalDefectDetailsFormBooth.h" />
-    <ClInclude Include="..\..\..\..\..\BoothClient\UnitMainBooth.h" />
-    <ClInclude Include="..\..\..\..\..\BoothClient\UnitProduct.h" />
-    <ClInclude Include="..\..\..\..\..\BoothClient\UnitProductsBooth.h" />
-    <ClInclude Include="..\..\..\..\..\BoothClient\UnitReadShiftData.h" />
-    <ClInclude Include="..\..\..\..\..\BoothClient\UnitShiftReading.h" />
-    <ClInclude Include="..\..\..\..\..\BoothClient\UnitStartUp.h" />
-    <ClInclude Include="..\..\..\..\..\BoothClient\UnitStartUpBooth.h" />
-    <ClInclude Include="..\..\..\..\..\BoothClient\UnitStringGridMagnification.h" />
     <ClInclude Include="E:\Programowanie\BoothClient\CommonTableClass.h" />
     <ClInclude Include="E:\Programowanie\BoothClient\DataBooth.h" />
     <ClInclude Include="E:\Programowanie\BoothClient\DetailFormBooth.h" />
@@ -212,8 +173,6 @@
     <ClInclude Include="E:\Programowanie\BoothClient\UnitStringGridMagnification.h" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\..\..\BoothClient\jalbum.ico" />
-    <Image Include="..\..\..\..\..\BoothClient\SMILEY4.ICO" />
     <Image Include="E:\Programowanie\BoothClient\jalbum.ico" />
     <Image Include="E:\Programowanie\BoothClient\SMILEY4.ICO" />
   </ItemGroup>
