@@ -136,6 +136,14 @@
     <None Include="..\..\..\..\..\BoothClient\UnitAdditionalDefectDetailsFormBooth.dfm" />
     <None Include="..\..\..\..\..\BoothClient\UnitMainBooth.dfm" />
     <None Include="..\..\..\..\..\BoothClient\UnitStringGridMagnification.dfm" />
+    <None Include="E:\Programowanie\BoothClient\BoothClient.cbproj" />
+    <None Include="E:\Programowanie\BoothClient\BoothClient.cbproj.local" />
+    <None Include="E:\Programowanie\BoothClient\BoothClient.dsk" />
+    <None Include="E:\Programowanie\BoothClient\DataBooth.dfm" />
+    <None Include="E:\Programowanie\BoothClient\DetailFormBooth.dfm" />
+    <None Include="E:\Programowanie\BoothClient\UnitAdditionalDefectDetailsFormBooth.dfm" />
+    <None Include="E:\Programowanie\BoothClient\UnitMainBooth.dfm" />
+    <None Include="E:\Programowanie\BoothClient\UnitStringGridMagnification.dfm" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\BoothClient\BoothClient.cpp" />
@@ -153,9 +161,25 @@
     <ClCompile Include="..\..\..\..\..\BoothClient\UnitStartUp.cpp" />
     <ClCompile Include="..\..\..\..\..\BoothClient\UnitStartUpBooth.cpp" />
     <ClCompile Include="..\..\..\..\..\BoothClient\UnitStringGridMagnification.cpp" />
+    <ClCompile Include="E:\Programowanie\BoothClient\BoothClient.cpp" />
+    <ClCompile Include="E:\Programowanie\BoothClient\CommonTableClass.cpp" />
+    <ClCompile Include="E:\Programowanie\BoothClient\DataBooth.cpp" />
+    <ClCompile Include="E:\Programowanie\BoothClient\DetailFormBooth.cpp" />
+    <ClCompile Include="E:\Programowanie\BoothClient\Global.cpp" />
+    <ClCompile Include="E:\Programowanie\BoothClient\GlobalBooth.cpp" />
+    <ClCompile Include="E:\Programowanie\BoothClient\UnitAdditionalDefectDetailsFormBooth.cpp" />
+    <ClCompile Include="E:\Programowanie\BoothClient\UnitMainBooth.cpp" />
+    <ClCompile Include="E:\Programowanie\BoothClient\UnitProduct.cpp" />
+    <ClCompile Include="E:\Programowanie\BoothClient\UnitProductsBooth.cpp" />
+    <ClCompile Include="E:\Programowanie\BoothClient\UnitReadShiftData.cpp" />
+    <ClCompile Include="E:\Programowanie\BoothClient\UnitShiftReading.cpp" />
+    <ClCompile Include="E:\Programowanie\BoothClient\UnitStartUp.cpp" />
+    <ClCompile Include="E:\Programowanie\BoothClient\UnitStartUpBooth.cpp" />
+    <ClCompile Include="E:\Programowanie\BoothClient\UnitStringGridMagnification.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="..\..\..\..\..\BoothClient\BoothClient.res" />
+    <Resource Include="E:\Programowanie\BoothClient\BoothClient.res" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\..\BoothClient\CommonTableClass.h" />
@@ -172,10 +196,26 @@
     <ClInclude Include="..\..\..\..\..\BoothClient\UnitStartUp.h" />
     <ClInclude Include="..\..\..\..\..\BoothClient\UnitStartUpBooth.h" />
     <ClInclude Include="..\..\..\..\..\BoothClient\UnitStringGridMagnification.h" />
+    <ClInclude Include="E:\Programowanie\BoothClient\CommonTableClass.h" />
+    <ClInclude Include="E:\Programowanie\BoothClient\DataBooth.h" />
+    <ClInclude Include="E:\Programowanie\BoothClient\DetailFormBooth.h" />
+    <ClInclude Include="E:\Programowanie\BoothClient\Global.h" />
+    <ClInclude Include="E:\Programowanie\BoothClient\GlobalBooth.h" />
+    <ClInclude Include="E:\Programowanie\BoothClient\UnitAdditionalDefectDetailsFormBooth.h" />
+    <ClInclude Include="E:\Programowanie\BoothClient\UnitMainBooth.h" />
+    <ClInclude Include="E:\Programowanie\BoothClient\UnitProduct.h" />
+    <ClInclude Include="E:\Programowanie\BoothClient\UnitProductsBooth.h" />
+    <ClInclude Include="E:\Programowanie\BoothClient\UnitReadShiftData.h" />
+    <ClInclude Include="E:\Programowanie\BoothClient\UnitShiftReading.h" />
+    <ClInclude Include="E:\Programowanie\BoothClient\UnitStartUp.h" />
+    <ClInclude Include="E:\Programowanie\BoothClient\UnitStartUpBooth.h" />
+    <ClInclude Include="E:\Programowanie\BoothClient\UnitStringGridMagnification.h" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\..\BoothClient\jalbum.ico" />
     <Image Include="..\..\..\..\..\BoothClient\SMILEY4.ICO" />
+    <Image Include="E:\Programowanie\BoothClient\jalbum.ico" />
+    <Image Include="E:\Programowanie\BoothClient\SMILEY4.ICO" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

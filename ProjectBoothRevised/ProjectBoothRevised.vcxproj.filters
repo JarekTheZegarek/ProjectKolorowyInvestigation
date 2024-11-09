@@ -24,6 +24,14 @@
     <None Include="..\..\..\..\..\BoothClient\UnitAdditionalDefectDetailsFormBooth.dfm" />
     <None Include="..\..\..\..\..\BoothClient\UnitMainBooth.dfm" />
     <None Include="..\..\..\..\..\BoothClient\UnitStringGridMagnification.dfm" />
+    <None Include="E:\Programowanie\BoothClient\BoothClient.cbproj" />
+    <None Include="E:\Programowanie\BoothClient\BoothClient.cbproj.local" />
+    <None Include="E:\Programowanie\BoothClient\BoothClient.dsk" />
+    <None Include="E:\Programowanie\BoothClient\DataBooth.dfm" />
+    <None Include="E:\Programowanie\BoothClient\DetailFormBooth.dfm" />
+    <None Include="E:\Programowanie\BoothClient\UnitAdditionalDefectDetailsFormBooth.dfm" />
+    <None Include="E:\Programowanie\BoothClient\UnitMainBooth.dfm" />
+    <None Include="E:\Programowanie\BoothClient\UnitStringGridMagnification.dfm" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\BoothClient\BoothClient.cpp">
@@ -71,9 +79,55 @@
     <ClCompile Include="..\..\..\..\..\BoothClient\UnitStringGridMagnification.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="E:\Programowanie\BoothClient\BoothClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Programowanie\BoothClient\CommonTableClass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Programowanie\BoothClient\DataBooth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Programowanie\BoothClient\DetailFormBooth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Programowanie\BoothClient\Global.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Programowanie\BoothClient\GlobalBooth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Programowanie\BoothClient\UnitAdditionalDefectDetailsFormBooth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Programowanie\BoothClient\UnitMainBooth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Programowanie\BoothClient\UnitProduct.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Programowanie\BoothClient\UnitProductsBooth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Programowanie\BoothClient\UnitReadShiftData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Programowanie\BoothClient\UnitShiftReading.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Programowanie\BoothClient\UnitStartUp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Programowanie\BoothClient\UnitStartUpBooth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Programowanie\BoothClient\UnitStringGridMagnification.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Resource Include="..\..\..\..\..\BoothClient\BoothClient.res" />
+    <Resource Include="E:\Programowanie\BoothClient\BoothClient.res" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\..\BoothClient\CommonTableClass.h">
@@ -118,12 +172,60 @@
     <ClInclude Include="..\..\..\..\..\BoothClient\UnitStringGridMagnification.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="E:\Programowanie\BoothClient\CommonTableClass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Programowanie\BoothClient\DataBooth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Programowanie\BoothClient\DetailFormBooth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Programowanie\BoothClient\Global.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Programowanie\BoothClient\GlobalBooth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Programowanie\BoothClient\UnitAdditionalDefectDetailsFormBooth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Programowanie\BoothClient\UnitMainBooth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Programowanie\BoothClient\UnitProduct.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Programowanie\BoothClient\UnitProductsBooth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Programowanie\BoothClient\UnitReadShiftData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Programowanie\BoothClient\UnitShiftReading.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Programowanie\BoothClient\UnitStartUp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Programowanie\BoothClient\UnitStartUpBooth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Programowanie\BoothClient\UnitStringGridMagnification.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\..\BoothClient\jalbum.ico">
       <Filter>Resource Files</Filter>
     </Image>
     <Image Include="..\..\..\..\..\BoothClient\SMILEY4.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="E:\Programowanie\BoothClient\jalbum.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="E:\Programowanie\BoothClient\SMILEY4.ICO">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
