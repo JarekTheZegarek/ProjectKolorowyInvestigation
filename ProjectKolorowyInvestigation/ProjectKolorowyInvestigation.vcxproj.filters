@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\~$is niektórych rozwiazań.doc" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Copy of Pareto Coater and Grenzebach June 2016.xlsx" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\DataCoater.dfm" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\File1.sql" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\FromProgress.dfm" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\In Consumed BedUtilization Monthly GOOD.sql" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Kategorie Pareto.xlsx" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Notatki.odt" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Opis niektórych rozwiazań.doc" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup1.~dsk" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup1.dsk" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup1.groupproj" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup1.groupproj.local" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup1_prjgroup.tvsconfig" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup2.~dsk" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup2.dsk" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup2_prjgroup.tvsconfig" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupReportMSSQL.~dsk" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupReportMSSQL.dsk" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupReportMSSQL.groupproj" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupReportMSSQL.groupproj.local" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupReportMSSQL_prjgroup.tvsconfig" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupResized.~dsk" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupResized.dsk" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupResized.groupproj" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupResized.groupproj.local" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupResized_prjgroup.tvsconfig" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Queries.sql" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.~dsk" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.cache" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.cbproj" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.cbproj.local" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.dsk" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.ini" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.int" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.otares" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.todo" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT_project.tvsconfig" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT2.cbproj" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT2.cbproj.local" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitExportToCoC.dfm" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitFormCoCincompatibility.dfm" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitMain.dfm" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitOEEForm.dfm" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitOption.dfm" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitPacks.dfm" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Uwagi OEE dla zmian.docx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\AccessCOM.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Alarms.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Class1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\CommonTableClass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\DataCoater.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\FromProgress.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Global.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Measurements.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitCathodes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitCTControl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitDefects.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitEpuro.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitExportToCoC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitFormCoCincompatibility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitGerneralRemark.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitLineStacker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitLineStatus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitMainEntity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitOEEForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitOption.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitPacks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitProduction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitProducts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitReport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitReport0.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitSeparator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitStartUp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitTryby.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitWasher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\AccessCOM.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Alarms.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Class1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\CommonTableClass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\DataCoater.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\FromProgress.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Global.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Measurements.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitCathodes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitCTControl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitDefects.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitEpuro.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitExportToCoC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitFormCoCincompatibility.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitGerneralRemark.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitLineStacker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitLineStatus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitMain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitMainEntity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitOEEForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitOption.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitPacks.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitProduction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitProducts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitReport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitReport0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitSeparator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitStartUp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitTryby.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitWasher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\COLORS1.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT_Icon.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT_Icon1.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Dane zmiany z błędnymi ustawieniami.txt" />
+    <Text Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\File1.txt" />
+    <Text Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Identity creation.txt" />
+    <Text Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Local Connection String.txt" />
+    <Text Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\New1.txt" />
+    <Text Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Ścieżki ogólne.txt" />
+    <Text Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\todo.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.res" />
+    <Resource Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT2.res" />
+  </ItemGroup>
+</Project>

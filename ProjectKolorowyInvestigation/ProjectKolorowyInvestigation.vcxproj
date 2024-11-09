@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{7229b7fa-6468-414c-87b5-a5f1ed88a88b}</ProjectGuid>
+    <RootNamespace>ProjectKolorowyInvestigation</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Copy of Pareto Coater and Grenzebach June 2016.xlsx" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\DataCoater.dfm" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\File1.sql" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\FromProgress.dfm" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\In Consumed BedUtilization Monthly GOOD.sql" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Kategorie Pareto.xlsx" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Notatki.odt" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Opis niektórych rozwiazań.doc" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup1.dsk" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup1.groupproj" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup1.groupproj.local" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup1.~dsk" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup1_prjgroup.tvsconfig" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup2.dsk" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup2.~dsk" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup2_prjgroup.tvsconfig" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupReportMSSQL.dsk" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupReportMSSQL.groupproj" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupReportMSSQL.groupproj.local" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupReportMSSQL.~dsk" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupReportMSSQL_prjgroup.tvsconfig" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupResized.dsk" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupResized.groupproj" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupResized.groupproj.local" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupResized.~dsk" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupResized_prjgroup.tvsconfig" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Queries.sql" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.cache" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.cbproj" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.cbproj.local" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.dsk" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.ini" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.int" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.otares" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.todo" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.~dsk" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT2.cbproj" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT2.cbproj.local" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT_project.tvsconfig" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitExportToCoC.dfm" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitFormCoCincompatibility.dfm" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitMain.dfm" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitOEEForm.dfm" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitOption.dfm" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitPacks.dfm" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Uwagi OEE dla zmian.docx" />
+    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\~$is niektórych rozwiazań.doc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\AccessCOM.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Alarms.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Class1.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\CommonTableClass.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\DataCoater.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\FromProgress.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Global.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Measurements.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT2.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitCathodes.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitCTControl.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitDefects.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitEpuro.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitExportToCoC.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitFormCoCincompatibility.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitGerneralRemark.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitLineStacker.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitLineStatus.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitMain.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitMainEntity.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitOEEForm.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitOption.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitPacks.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitProduction.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitProducts.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitReport.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitReport0.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitSeparator.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitStartUp.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitTryby.cpp" />
+    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitWasher.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\AccessCOM.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Alarms.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Class1.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\CommonTableClass.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\DataCoater.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\FromProgress.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Global.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Measurements.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitCathodes.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitCTControl.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitDefects.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitEpuro.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitExportToCoC.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitFormCoCincompatibility.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitGerneralRemark.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitLineStacker.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitLineStatus.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitMain.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitMainEntity.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitOEEForm.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitOption.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitPacks.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitProduction.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitProducts.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitReport.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitReport0.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitSeparator.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitStartUp.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitTryby.h" />
+    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitWasher.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\COLORS1.ICO" />
+    <Image Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT_Icon.ico" />
+    <Image Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT_Icon1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Dane zmiany z błędnymi ustawieniami.txt" />
+    <Text Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\File1.txt" />
+    <Text Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Identity creation.txt" />
+    <Text Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Local Connection String.txt" />
+    <Text Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\New1.txt" />
+    <Text Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\todo.txt" />
+    <Text Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Ścieżki ogólne.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.res" />
+    <Resource Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT2.res" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
