@@ -1,0 +1,48 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{F75B3389-6C84-4299-9B0C-EF5911B6924F}</ProjectGuid>
+		</PropertyGroup>
+		<ItemGroup>
+			<Projects Include="RaportCT.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="C:\Users\jsolecki\Documents\RAD Studio\Projects\SingleLayerHelper\SingleLayerHelper.cbproj">
+				<Dependencies/>
+			</Projects>
+		</ItemGroup>
+		<ProjectExtensions>
+			<Borland.Personality>Default.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Default.Personality/>
+			</BorlandProject>
+		</ProjectExtensions>
+		<Target Name="RaportCT">
+			<MSBuild Projects="RaportCT.cbproj"/>
+		</Target>
+		<Target Name="RaportCT:Clean">
+			<MSBuild Projects="RaportCT.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="RaportCT:Make">
+			<MSBuild Projects="RaportCT.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="SingleLayerHelper">
+			<MSBuild Projects="C:\Users\jsolecki\Documents\RAD Studio\Projects\SingleLayerHelper\SingleLayerHelper.cbproj"/>
+		</Target>
+		<Target Name="SingleLayerHelper:Clean">
+			<MSBuild Projects="C:\Users\jsolecki\Documents\RAD Studio\Projects\SingleLayerHelper\SingleLayerHelper.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="SingleLayerHelper:Make">
+			<MSBuild Projects="C:\Users\jsolecki\Documents\RAD Studio\Projects\SingleLayerHelper\SingleLayerHelper.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="Build">
+			<CallTarget Targets="RaportCT;SingleLayerHelper"/>
+		</Target>
+		<Target Name="Clean">
+			<CallTarget Targets="RaportCT:Clean;SingleLayerHelper:Clean"/>
+		</Target>
+		<Target Name="Make">
+			<CallTarget Targets="RaportCT:Make;SingleLayerHelper:Make"/>
+		</Target>
+		<Import Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')" Project="$(BDS)\Bin\CodeGear.Group.Targets"/>
+	</Project>

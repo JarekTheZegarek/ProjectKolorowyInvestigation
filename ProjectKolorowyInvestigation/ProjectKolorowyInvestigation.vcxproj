@@ -18,6 +18,139 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AccessCOM.cpp" />
+    <ClCompile Include="Alarms.cpp" />
+    <ClCompile Include="Class1.cpp" />
+    <ClCompile Include="CommonTableClass.cpp" />
+    <ClCompile Include="DataCoater.cpp" />
+    <ClCompile Include="FromProgress.cpp" />
+    <ClCompile Include="Global.cpp" />
+    <ClCompile Include="Measurements.cpp" />
+    <ClCompile Include="RaportCT.cpp" />
+    <ClCompile Include="RaportCT2.cpp" />
+    <ClCompile Include="UnitCathodes.cpp" />
+    <ClCompile Include="UnitCTControl.cpp" />
+    <ClCompile Include="UnitDefects.cpp" />
+    <ClCompile Include="UnitEpuro.cpp" />
+    <ClCompile Include="UnitExportToCoC.cpp" />
+    <ClCompile Include="UnitFormCoCincompatibility.cpp" />
+    <ClCompile Include="UnitGerneralRemark.cpp" />
+    <ClCompile Include="UnitLineStacker.cpp" />
+    <ClCompile Include="UnitLineStatus.cpp" />
+    <ClCompile Include="UnitMain.cpp" />
+    <ClCompile Include="UnitMainEntity.cpp" />
+    <ClCompile Include="UnitOEEForm.cpp" />
+    <ClCompile Include="UnitOption.cpp" />
+    <ClCompile Include="UnitPacks.cpp" />
+    <ClCompile Include="UnitProduction.cpp" />
+    <ClCompile Include="UnitProducts.cpp" />
+    <ClCompile Include="UnitReport.cpp" />
+    <ClCompile Include="UnitReport0.cpp" />
+    <ClCompile Include="UnitSeparator.cpp" />
+    <ClCompile Include="UnitStartUp.cpp" />
+    <ClCompile Include="UnitTryby.cpp" />
+    <ClCompile Include="UnitWasher.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Copy of Pareto Coater and Grenzebach June 2016.xlsx" />
+    <None Include="DataCoater.dfm" />
+    <None Include="File1.sql" />
+    <None Include="FromProgress.dfm" />
+    <None Include="In Consumed BedUtilization Monthly GOOD.sql" />
+    <None Include="Kategorie Pareto.xlsx" />
+    <None Include="Notatki.odt" />
+    <None Include="Opis niektórych rozwiazań.doc" />
+    <None Include="ProjectGroup1.dsk" />
+    <None Include="ProjectGroup1.groupproj" />
+    <None Include="ProjectGroup1.groupproj.local" />
+    <None Include="ProjectGroup1.~dsk" />
+    <None Include="ProjectGroup1_prjgroup.tvsconfig" />
+    <None Include="ProjectGroup2.dsk" />
+    <None Include="ProjectGroup2.~dsk" />
+    <None Include="ProjectGroup2_prjgroup.tvsconfig" />
+    <None Include="ProjectGroupReportMSSQL.dsk" />
+    <None Include="ProjectGroupReportMSSQL.groupproj" />
+    <None Include="ProjectGroupReportMSSQL.groupproj.local" />
+    <None Include="ProjectGroupReportMSSQL.~dsk" />
+    <None Include="ProjectGroupReportMSSQL_prjgroup.tvsconfig" />
+    <None Include="ProjectGroupResized.dsk" />
+    <None Include="ProjectGroupResized.groupproj" />
+    <None Include="ProjectGroupResized.groupproj.local" />
+    <None Include="ProjectGroupResized.~dsk" />
+    <None Include="ProjectGroupResized_prjgroup.tvsconfig" />
+    <None Include="Queries.sql" />
+    <None Include="RaportCT.cache" />
+    <None Include="RaportCT.cbproj" />
+    <None Include="RaportCT.cbproj.local" />
+    <None Include="RaportCT.dsk" />
+    <None Include="RaportCT.ini" />
+    <None Include="RaportCT.int" />
+    <None Include="RaportCT.otares" />
+    <None Include="RaportCT.todo" />
+    <None Include="RaportCT.~dsk" />
+    <None Include="RaportCT2.cbproj" />
+    <None Include="RaportCT2.cbproj.local" />
+    <None Include="RaportCT_project.tvsconfig" />
+    <None Include="UnitExportToCoC.dfm" />
+    <None Include="UnitFormCoCincompatibility.dfm" />
+    <None Include="UnitMain.dfm" />
+    <None Include="UnitOEEForm.dfm" />
+    <None Include="UnitOption.dfm" />
+    <None Include="UnitPacks.dfm" />
+    <None Include="Uwagi OEE dla zmian.docx" />
+    <None Include="~$is niektórych rozwiazań.doc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AccessCOM.h" />
+    <ClInclude Include="Alarms.h" />
+    <ClInclude Include="Class1.h" />
+    <ClInclude Include="CommonTableClass.h" />
+    <ClInclude Include="DataCoater.h" />
+    <ClInclude Include="FromProgress.h" />
+    <ClInclude Include="Global.h" />
+    <ClInclude Include="Measurements.h" />
+    <ClInclude Include="UnitCathodes.h" />
+    <ClInclude Include="UnitCTControl.h" />
+    <ClInclude Include="UnitDefects.h" />
+    <ClInclude Include="UnitEpuro.h" />
+    <ClInclude Include="UnitExportToCoC.h" />
+    <ClInclude Include="UnitFormCoCincompatibility.h" />
+    <ClInclude Include="UnitGerneralRemark.h" />
+    <ClInclude Include="UnitLineStacker.h" />
+    <ClInclude Include="UnitLineStatus.h" />
+    <ClInclude Include="UnitMain.h" />
+    <ClInclude Include="UnitMainEntity.h" />
+    <ClInclude Include="UnitOEEForm.h" />
+    <ClInclude Include="UnitOption.h" />
+    <ClInclude Include="UnitPacks.h" />
+    <ClInclude Include="UnitProduction.h" />
+    <ClInclude Include="UnitProducts.h" />
+    <ClInclude Include="UnitReport.h" />
+    <ClInclude Include="UnitReport0.h" />
+    <ClInclude Include="UnitSeparator.h" />
+    <ClInclude Include="UnitStartUp.h" />
+    <ClInclude Include="UnitTryby.h" />
+    <ClInclude Include="UnitWasher.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="RaportCT.res" />
+    <Resource Include="RaportCT2.res" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Dane zmiany z błędnymi ustawieniami.txt" />
+    <Text Include="File1.txt" />
+    <Text Include="Identity creation.txt" />
+    <Text Include="Local Connection String.txt" />
+    <Text Include="New1.txt" />
+    <Text Include="todo.txt" />
+    <Text Include="Ścieżki ogólne.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="COLORS1.ICO" />
+    <Image Include="RaportCT_Icon.ico" />
+    <Image Include="RaportCT_Icon1.ico" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -126,140 +259,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Copy of Pareto Coater and Grenzebach June 2016.xlsx" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\DataCoater.dfm" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\File1.sql" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\FromProgress.dfm" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\In Consumed BedUtilization Monthly GOOD.sql" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Kategorie Pareto.xlsx" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Notatki.odt" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Opis niektórych rozwiazań.doc" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup1.dsk" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup1.groupproj" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup1.groupproj.local" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup1.~dsk" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup1_prjgroup.tvsconfig" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup2.dsk" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup2.~dsk" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroup2_prjgroup.tvsconfig" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupReportMSSQL.dsk" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupReportMSSQL.groupproj" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupReportMSSQL.groupproj.local" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupReportMSSQL.~dsk" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupReportMSSQL_prjgroup.tvsconfig" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupResized.dsk" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupResized.groupproj" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupResized.groupproj.local" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupResized.~dsk" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\ProjectGroupResized_prjgroup.tvsconfig" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Queries.sql" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.cache" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.cbproj" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.cbproj.local" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.dsk" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.ini" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.int" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.otares" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.todo" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.~dsk" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT2.cbproj" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT2.cbproj.local" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT_project.tvsconfig" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitExportToCoC.dfm" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitFormCoCincompatibility.dfm" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitMain.dfm" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitOEEForm.dfm" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitOption.dfm" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitPacks.dfm" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Uwagi OEE dla zmian.docx" />
-    <None Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\~$is niektórych rozwiazań.doc" />
-    <None Include="E:\Programowanie\BoothClient\BoothClient.dsk" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\AccessCOM.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Alarms.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Class1.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\CommonTableClass.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\DataCoater.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\FromProgress.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Global.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Measurements.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT2.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitCathodes.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitCTControl.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitDefects.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitEpuro.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitExportToCoC.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitFormCoCincompatibility.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitGerneralRemark.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitLineStacker.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitLineStatus.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitMain.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitMainEntity.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitOEEForm.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitOption.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitPacks.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitProduction.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitProducts.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitReport.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitReport0.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitSeparator.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitStartUp.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitTryby.cpp" />
-    <ClCompile Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitWasher.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\AccessCOM.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Alarms.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Class1.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\CommonTableClass.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\DataCoater.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\FromProgress.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Global.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Measurements.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitCathodes.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitCTControl.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitDefects.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitEpuro.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitExportToCoC.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitFormCoCincompatibility.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitGerneralRemark.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitLineStacker.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitLineStatus.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitMain.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitMainEntity.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitOEEForm.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitOption.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitPacks.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitProduction.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitProducts.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitReport.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitReport0.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitSeparator.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitStartUp.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitTryby.h" />
-    <ClInclude Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\UnitWasher.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\COLORS1.ICO" />
-    <Image Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT_Icon.ico" />
-    <Image Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT_Icon1.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Dane zmiany z błędnymi ustawieniami.txt" />
-    <Text Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\File1.txt" />
-    <Text Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Identity creation.txt" />
-    <Text Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Local Connection String.txt" />
-    <Text Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\New1.txt" />
-    <Text Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\todo.txt" />
-    <Text Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\Ścieżki ogólne.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT.res" />
-    <Resource Include="..\..\..\..\..\NowyRaportCoatera MSSQL 3\RaportCT2.res" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

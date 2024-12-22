@@ -1,0 +1,14 @@
+Select
+
+INSERT INTO PROD_SUMMARY  "
+              " SPEED, TOTAL_IN, TOTAL_OUT, YIELD,ID_Workshiftday, ID_Prod_Type  "
+              "VALUES   :SPEED, :TOTAL_IN, :TOTAL_OUT,:YIELD, :ID_Workshiftday, :ID_ProdType "
+              ;
+       Query->SQL->Add(QueryString);
+       Query->Parameters->ParamByName("ID_WorkshifdaDate")->Value=CurrentProduction->GetID_WorkshiftDay();
+       Query->Parameters->ParamByName("ID_ProdType")->Value=CurrentProduction->GetID_Product_Type();
+       Query->Parameters->ParamByName("SPEED")->Value=CurrentProduction->GetSpeed();
+       Query->Parameters->ParamByName("TOTAL_IN")->Value=CurrentProduction->GetTotalIn();
+       Query->Parameters->ParamByName("TOTAL_OUT")->Value=CurrentProduction->GetTotalOut();
+       Query->Parameters->ParamByName("YIELD")->Value=CurrentProduction->GetYield();
+       Query->Open();

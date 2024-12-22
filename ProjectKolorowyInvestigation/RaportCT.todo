@@ -1,0 +1,4 @@
+{TODO -cGeneral Remarks :
+Modeling data base so that for each state of the line should be asign
+and additional factor (for example for product change from which to which)
+In should be table (factors, line state) and (factors,lineState event, shift)}

@@ -1,0 +1,96 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{1D1E5621-C87A-42F9-8EDC-876D927F9C33}</ProjectGuid>
+		</PropertyGroup>
+		<ItemGroup>
+			<Projects Include="RaportCT.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\CoaterReportConf\CoaterReportConf.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\BoothClient.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="C:\Users\jsolecki\Documents\RAD Studio\Projects\Trials\Project1.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="C:\Program Files (x86)\FastReports\Demos\BCB Demos\PrintArray\ProjectPrintArray.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="..\..\OdczytExcel\OdczytExcel.cbproj">
+				<Dependencies/>
+			</Projects>
+		</ItemGroup>
+		<ProjectExtensions>
+			<Borland.Personality>Default.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Default.Personality/>
+			</BorlandProject>
+		</ProjectExtensions>
+		<Target Name="RaportCT">
+			<MSBuild Projects="RaportCT.cbproj"/>
+		</Target>
+		<Target Name="RaportCT:Clean">
+			<MSBuild Projects="RaportCT.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="RaportCT:Make">
+			<MSBuild Projects="RaportCT.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="CoaterReportConf">
+			<MSBuild Projects="C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\CoaterReportConf\CoaterReportConf.cbproj"/>
+		</Target>
+		<Target Name="CoaterReportConf:Clean">
+			<MSBuild Projects="C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\CoaterReportConf\CoaterReportConf.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="CoaterReportConf:Make">
+			<MSBuild Projects="C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\CoaterReportConf\CoaterReportConf.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="BoothClient">
+			<MSBuild Projects="C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\BoothClient.cbproj"/>
+		</Target>
+		<Target Name="BoothClient:Clean">
+			<MSBuild Projects="C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\BoothClient.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="BoothClient:Make">
+			<MSBuild Projects="C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\BoothClient.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="Project1">
+			<MSBuild Projects="C:\Users\jsolecki\Documents\RAD Studio\Projects\Trials\Project1.cbproj"/>
+		</Target>
+		<Target Name="Project1:Clean">
+			<MSBuild Projects="C:\Users\jsolecki\Documents\RAD Studio\Projects\Trials\Project1.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="Project1:Make">
+			<MSBuild Projects="C:\Users\jsolecki\Documents\RAD Studio\Projects\Trials\Project1.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="ProjectPrintArray">
+			<MSBuild Projects="C:\Program Files (x86)\FastReports\Demos\BCB Demos\PrintArray\ProjectPrintArray.cbproj"/>
+		</Target>
+		<Target Name="ProjectPrintArray:Clean">
+			<MSBuild Projects="C:\Program Files (x86)\FastReports\Demos\BCB Demos\PrintArray\ProjectPrintArray.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="ProjectPrintArray:Make">
+			<MSBuild Projects="C:\Program Files (x86)\FastReports\Demos\BCB Demos\PrintArray\ProjectPrintArray.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="OdczytExcel">
+			<MSBuild Projects="..\..\OdczytExcel\OdczytExcel.cbproj"/>
+		</Target>
+		<Target Name="OdczytExcel:Clean">
+			<MSBuild Projects="..\..\OdczytExcel\OdczytExcel.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="OdczytExcel:Make">
+			<MSBuild Projects="..\..\OdczytExcel\OdczytExcel.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="Build">
+			<CallTarget Targets="RaportCT;CoaterReportConf;BoothClient;Project1;ProjectPrintArray;OdczytExcel"/>
+		</Target>
+		<Target Name="Clean">
+			<CallTarget Targets="RaportCT:Clean;CoaterReportConf:Clean;BoothClient:Clean;Project1:Clean;ProjectPrintArray:Clean;OdczytExcel:Clean"/>
+		</Target>
+		<Target Name="Make">
+			<CallTarget Targets="RaportCT:Make;CoaterReportConf:Make;BoothClient:Make;Project1:Make;ProjectPrintArray:Make;OdczytExcel:Make"/>
+		</Target>
+		<Import Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')" Project="$(BDS)\Bin\CodeGear.Group.Targets"/>
+	</Project>

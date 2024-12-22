@@ -1,0 +1,48 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{61B2556F-563B-4DF2-9AE6-0DFFDB6ABC6C}</ProjectGuid>
+		</PropertyGroup>
+		<ItemGroup>
+			<Projects Include="RaportCT.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="..\..\..\RAD Studio\Projects\ProjectTrial1.cbproj">
+				<Dependencies/>
+			</Projects>
+		</ItemGroup>
+		<ProjectExtensions>
+			<Borland.Personality>Default.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Default.Personality/>
+			</BorlandProject>
+		</ProjectExtensions>
+		<Target Name="RaportCT">
+			<MSBuild Projects="RaportCT.cbproj"/>
+		</Target>
+		<Target Name="RaportCT:Clean">
+			<MSBuild Projects="RaportCT.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="RaportCT:Make">
+			<MSBuild Projects="RaportCT.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="ProjectTrial1">
+			<MSBuild Projects="..\..\..\RAD Studio\Projects\ProjectTrial1.cbproj"/>
+		</Target>
+		<Target Name="ProjectTrial1:Clean">
+			<MSBuild Projects="..\..\..\RAD Studio\Projects\ProjectTrial1.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="ProjectTrial1:Make">
+			<MSBuild Projects="..\..\..\RAD Studio\Projects\ProjectTrial1.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="Build">
+			<CallTarget Targets="RaportCT;ProjectTrial1"/>
+		</Target>
+		<Target Name="Clean">
+			<CallTarget Targets="RaportCT:Clean;ProjectTrial1:Clean"/>
+		</Target>
+		<Target Name="Make">
+			<CallTarget Targets="RaportCT:Make;ProjectTrial1:Make"/>
+		</Target>
+		<Import Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')" Project="$(BDS)\Bin\CodeGear.Group.Targets"/>
+	</Project>

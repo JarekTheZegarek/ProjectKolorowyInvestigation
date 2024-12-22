@@ -1,0 +1,16 @@
+ 35
+down vote
+accepted
+	
+
+It can be done in a single command. You need to set the IDENTITY property for "auto number"
+
+ALTER TABLE MyTable ADD mytableID int NOT NULL IDENTITY (1,1) PRIMARY KEY
+
+More precisely to set a named table level constraint
+
+ALTER TABLE MyTable
+   ADD MytableID int NOT NULL IDENTITY (1,1),
+   ADD CONSTRAINT PK_MyTable PRIMARY KEY CLUSTERED (MyTableID)
+
+See ALTER TABLE and IDENTITY on MSDN

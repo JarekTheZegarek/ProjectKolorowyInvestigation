@@ -1,0 +1,1 @@
+Provider=SQLNCLI11.1;Integrated Security="";Persist Security Info=False;User ID=276CoaterReports;Initial Catalog=276CoaterReports;Data Source=276L030W7\JSDEVELOP;Initial File Name="";Server SPN=""

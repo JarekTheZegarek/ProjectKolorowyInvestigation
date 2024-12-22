@@ -1,0 +1,8 @@
+            Action Item	Status	Priority	Owner	Category	Module
+Modeling data base so that for each state of the line should be asign and additional factor (for example for product change from which to which) In should be table (factors, line state) and (factors,lineState event, shift)	Pending	0		General Remarks
+Poprawiæ uzupe³nianie Combo	Pending	1			C:\Users\jsolecki\Documents\Programowanie\Builder XE2\NowyRaportCoatera\UnitMainEntity.cpp
+Dokoñczyæ	Pending	1			C:\Users\jsolecki\Documents\Programowanie\Builder XE2\NowyRaportCoatera\UnitMainEntity.cpp
+Define Remove for Products	Pending	0			C:\Users\jsolecki\Documents\Programowanie\Builder XE2\NowyRaportCoatera\UnitProduction.h
+Code copied from another function, it is meant to be rebuild. To get production information for each day and shift	Completed	0			C:\Users\jsolecki\Documents\Programowanie\Builder XE2\NowyRaportCoatera\UnitReport.cpp
+add universal user map to fill also inactive users	Pending	0			C:\Users\jsolecki\Documents\Programowanie\Builder XE2\NowyRaportCoatera\UnitStartUp.cpp
+Add to the UnitTryby (modes) the possibility of mulitple modes simultanous selection	Pending	0			C:\Users\jsolecki\Documents\Programowanie\Builder XE2\NowyRaportCoatera\UnitTryby.cpp

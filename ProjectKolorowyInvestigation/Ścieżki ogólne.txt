@@ -1,0 +1,4 @@
+\\czestochowa.guardian.corp\gip_public\Shared Documents\CoaterRaport
+
+\\276NAS01\GiP_Public\Home\Shared Documents\CoaterRaport\
+\\276NAS01\Application\CoaterDefect\Data\

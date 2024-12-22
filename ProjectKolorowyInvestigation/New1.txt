@@ -1,0 +1,12 @@
+  SELECT WORKSHIFTDAYS.ID_WorkShiftDay, WORKSHIFTDAYS.DATE_OF_WORK,  PRODTYPE.FULLNAME as Name,LINESTATUS_TYPE.LINESTATUS_NAME, LINE_STATUS.START_TIME, LINE_STATUS.END_TIME , (IIf(LINE_STATUS!START_TIME>LINE_STATUS!END_TIME,24*60-DateDiff('n',LINE_STATUS!END_TIME,LINE_STATUS!START_TIME),DateDiff('n',LINE_STATUS!START_TIME,LINE_STATUS!END_TIME))) AS Czas
+               , QueryLineStatusRemarks.Remarks
+              , ShiftGroup.Name as Shift
+               FROM  ShiftGroup INNER JOIN ( (((( PRODTYPE  INNER JOIN Prod_Summary ON ProdType.ID_ProdType=Prod_Summary.ID_Prod_Type) INNER JOIN Workshiftdays ON WorkShiftDays.ID_WorkshiftDay = Prod_Summary.ID_WorkshiftDay) Inner JOIN LINE_STATUS
+                          ON LINE_STATUS.ID_Workshiftday = Workshiftdays.ID_WorkShiftDay) INNER JOIN LineStatus_Type  ON LINE_STATUS.ID_LINESTATUS = LINESTATUS_TYPE.ID_LINESTATUS)
+              LEFT JOIN  QueryLineStatusRemarks ON
+               (LINE_STATUS.ID_WORKSHIFTDAY=QueryLineStatusRemarks.ID_WORKSHIFTDAY) AND (LINE_STATUS.START_TIME=QueryLineStatusRemarks.START_TIME) AND (LINE_STATUS.END_TIME=QueryLineStatusRemarks.END_TIME) AND (LINE_STATUS.ID_LINESTATUS=QueryLineStatusRemarks.ID_LINESTATUS)
+               )  ON    ShiftGroup.ID_ShiftGroup = WorkShiftDays.ID_ShiftGroup
+         	 	WHERE (WORKSHIFTDAYS.DATE_OF_WORK Between #12/1/2012# And #1/1/2013#)
+              ORDER BY WORKSHIFTDAYS.DATE_OF_WORK,PRODTYPE.FULLNAME, LINE_STATUS.START_TIME, Workshiftdays.ID_WorkShiftDay;
+              ;
+

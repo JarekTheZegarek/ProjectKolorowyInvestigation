@@ -1,0 +1,1413 @@
+﻿[Closed Files]
+File_0=TSourceModule,'c:\program files (x86)\embarcadero\rad studio\9.0\include\windows\rtl\sysvari.h',0,1,2783,132,2806,0,0,,
+File_1=TSourceModule,'c:\program files (x86)\embarcadero\rad studio\9.0\include\windows\rtl\ustring.h',0,1,60,1,80,0,0,,
+File_2=TSourceModule,'C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitPacks.h',0,1,119,70,130,0,0,,
+File_3=TSourceModule,'c:\program files (x86)\embarcadero\rad studio\9.0\include\windows\vcl\cspin.h',0,1,67,41,84,0,0,,
+File_4=TSourceModule,'c:\program files (x86)\embarcadero\rad studio\9.0\include\windows\rtl\sysmac.h',0,1,495,23,512,0,0,,
+File_5=TSourceModule,'c:\program files (x86)\embarcadero\rad studio\9.0\include\windows\rtl\System.MaskUtils.hpp',0,1,42,30,59,0,0,,
+File_6=TSourceModule,'c:\program files (x86)\embarcadero\rad studio\9.0\include\dinkumware\functional',0,1,118,1,135,0,0,,
+File_7=TSourceModule,'C:\Documents and Settings\jsolecki\My Documents\Programowanie\OdczytExcel\Unit1.cpp',0,1,1,1,1,0,0,,
+File_8=TSourceModule,'C:\Program Files (x86)\FastReports\Demos\BCB Demos\PrintArray\Unit1.cpp',0,1,1,1,1,0,0,,
+File_9=TSourceModule,'C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\DataBooth.cpp',0,1,100,71,63,0,0,,
+File_10=TSourceModule,'c:\program files (x86)\embarcadero\rad studio\9.0\include\dinkumware\map',0,1,146,1,170,0,0,,
+File_11=TSourceModule,'c:\program files (x86)\embarcadero\rad studio\9.0\include\windows\rtl\systdate.h',0,1,35,1,48,0,0,,
+File_12=TSourceModule,'c:\program files (x86)\embarcadero\rad studio\9.0\include\windows\vcl\Vcl.Controls.hpp',0,1,1693,1,1678,0,0,,
+File_13=TSourceModule,'c:\program files (x86)\embarcadero\rad studio\9.0\SOURCE\VCL\Vcl.Controls.pas',0,1,9291,1,9307,0,0,,
+
+[Modules]
+Module0=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitReport.cpp
+Module1=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitOEEForm.cpp
+Module2=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\FromProgress.cpp
+Module3=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitMainEntity.cpp
+Module4=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitMain.cpp
+Module5=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitDefects.cpp
+Module6=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitCathodes.cpp
+Module7=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitEpuro.cpp
+Module8=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitWasher.cpp
+Module9=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\Measurements.cpp
+Module10=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\DataCoater.cpp
+Module11=ff381407(v=vs.85).aspx
+Module12=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\AccessCOM.cpp
+Module13=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\BoothClient.cbproj
+Module14=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitStartUp.cpp
+Module15=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\UnitMainBooth.cpp
+Module16=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\UnitStringGridMagnification.cpp
+Module17=C:\Users\jsolecki\Documents\RAD Studio\Projects\Trials\Trials.cpp
+Module18=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitProducts.cpp
+Module19=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitExportToCoC.cpp
+Module20=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\Global.cpp
+Module21=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitFormCoCincompatibility.cpp
+Module22=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitOption.cpp
+Module23=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitProduction.cpp
+Module24=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitSeparator.cpp
+Module25=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\UnitReadShiftData.cpp
+Module26=C:\Documents and Settings\jsolecki\My Documents\Programowanie\OdczytExcel\ExcelCOM.cpp
+Module27=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitLineStatus.cpp
+Module28=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\UnitProductsBooth.cpp
+Module29=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\DetailFormBooth.cpp
+Module30=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\GlobalBooth.cpp
+Module31=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\UnitStartUpBooth.cpp
+Count=32
+EditWindowCount=1
+
+[C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitReport.cpp]
+ModuleType=TSourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitOEEForm.cpp]
+ModuleType=TSourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\FromProgress.cpp]
+ModuleType=TSourceModule
+FormState=1
+FormOnTop=1
+
+[C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitMainEntity.cpp]
+ModuleType=TSourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitMain.cpp]
+ModuleType=TSourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitDefects.cpp]
+ModuleType=TSourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitCathodes.cpp]
+ModuleType=TSourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitEpuro.cpp]
+ModuleType=TSourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitWasher.cpp]
+ModuleType=TSourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\Measurements.cpp]
+ModuleType=TSourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\DataCoater.cpp]
+ModuleType=TSourceModule
+FormState=1
+FormOnTop=1
+
+[ff381407(v=vs.85).aspx]
+ModuleType=TURLModule
+
+[C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\AccessCOM.cpp]
+ModuleType=TSourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\BoothClient.cbproj]
+ModuleType=TBaseProject
+
+[C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitStartUp.cpp]
+ModuleType=TSourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\UnitMainBooth.cpp]
+ModuleType=TSourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\UnitStringGridMagnification.cpp]
+ModuleType=TSourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Users\jsolecki\Documents\RAD Studio\Projects\Trials\Trials.cpp]
+ModuleType=TSourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitProducts.cpp]
+ModuleType=TSourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitExportToCoC.cpp]
+ModuleType=TSourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\Global.cpp]
+ModuleType=TSourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitFormCoCincompatibility.cpp]
+ModuleType=TSourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitOption.cpp]
+ModuleType=TSourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitProduction.cpp]
+ModuleType=TSourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitSeparator.cpp]
+ModuleType=TSourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\UnitReadShiftData.cpp]
+ModuleType=TSourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Documents and Settings\jsolecki\My Documents\Programowanie\OdczytExcel\ExcelCOM.cpp]
+ModuleType=TSourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitLineStatus.cpp]
+ModuleType=TSourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\UnitProductsBooth.cpp]
+ModuleType=TSourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\DetailFormBooth.cpp]
+ModuleType=TSourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\GlobalBooth.cpp]
+ModuleType=TSourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\UnitStartUpBooth.cpp]
+ModuleType=TSourceModule
+FormState=0
+FormOnTop=0
+
+[EditWindow0]
+ViewCount=32
+CurrentEditView=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitReport.cpp
+View0=0
+View1=1
+View2=2
+View3=3
+View4=4
+View5=5
+View6=6
+View7=7
+View8=8
+View9=9
+View10=10
+View11=11
+View12=12
+View13=13
+View14=14
+View15=15
+View16=16
+View17=17
+View18=18
+View19=19
+View20=20
+View21=21
+View22=22
+View23=23
+View24=24
+View25=25
+View26=26
+View27=27
+View28=28
+View29=29
+View30=30
+View31=31
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=0
+Width=10000
+Height=9269
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=10000
+ClientHeight=9269
+DockedToMainForm=1
+BorlandEditorCodeExplorer=BorlandEditorCodeExplorer@EditWindow0
+TopPanelSize=0
+LeftPanelSize=1896
+LeftPanelClients=PropertyInspector,DockSite3
+LeftPanelData=00000800010100000000371000000000000001680700000000000001000000005C0E000009000000446F636B53697465330100000000D41C00001100000050726F7065727479496E73706563746F72FFFFFFFF
+RightPanelSize=2000
+RightPanelClients=DockSite2,DockSite4
+RightPanelData=00000800010100000000371000000000000001D00700000000000001000000004412000009000000446F636B53697465320100000000D41C000009000000446F636B5369746534FFFFFFFF
+BottomPanelSize=1519
+BottomPanelClients=DockSite1,MessageView
+BottomPanelData=0000080001020100000009000000446F636B5369746531724500000000000002EF050000000000000100000000724500000F0000004D65737361676556696577466F726DFFFFFFFF
+BottomMiddlePanelSize=0
+BottomMiddlePanelClients=DockSite0
+BottomMiddelPanelData=0000080001020100000009000000446F636B5369746530961D00000000000002F206000000000000FFFFFFFF
+
+[View0]
+CustomEditViewType=TWelcomePageView
+WelcomePageURL=https://msdn.microsoft.com/en-us/library/ff381407(v=vs.85).aspx
+
+[View1]
+CustomEditViewType=TEditView
+Module=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\DataCoater.cpp
+CursorX=36
+CursorY=201
+TopLine=1
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=Borland.FormDesignerView
+
+[View2]
+CustomEditViewType=TEditView
+Module=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\Measurements.cpp
+CursorX=50
+CursorY=107
+TopLine=101
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\Measurements.cpp
+
+[View3]
+CustomEditViewType=TEditView
+Module=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitWasher.cpp
+CursorX=1
+CursorY=1
+TopLine=22
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitWasher.cpp
+
+[View4]
+CustomEditViewType=TEditView
+Module=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitEpuro.cpp
+CursorX=55
+CursorY=303
+TopLine=286
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitEpuro.cpp
+
+[View5]
+CustomEditViewType=TEditView
+Module=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitCathodes.cpp
+CursorX=122
+CursorY=269
+TopLine=114
+LeftCol=1
+Elisions=
+Bookmarks={1,314,41}
+EditViewName=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitCathodes.cpp
+
+[View6]
+CustomEditViewType=TEditView
+Module=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitDefects.cpp
+CursorX=67
+CursorY=683
+TopLine=662
+LeftCol=1
+Elisions=
+Bookmarks={1,824,56}{2,887,7}
+EditViewName=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitDefects.cpp
+
+[View7]
+CustomEditViewType=TEditView
+Module=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitMain.cpp
+CursorX=11
+CursorY=2475
+TopLine=2468
+LeftCol=1
+Elisions=
+Bookmarks={1,1927,9}{2,1830,28}
+EditViewName=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitMain.cpp
+
+[View8]
+CustomEditViewType=TEditView
+Module=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitMainEntity.cpp
+CursorX=1
+CursorY=525
+TopLine=492
+LeftCol=1
+Elisions=
+Bookmarks={1,646,30}
+EditViewName=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitMainEntity.cpp
+
+[View9]
+CustomEditViewType=TEditView
+Module=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\FromProgress.cpp
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=Borland.FormDesignerView
+
+[View10]
+CustomEditViewType=TEditView
+Module=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\AccessCOM.cpp
+CursorX=28
+CursorY=2225
+TopLine=2214
+LeftCol=1
+Elisions=
+Bookmarks={1,1581,30}{2,1530,10}{3,2277,27}{4,1151,51}{5,1000,5}
+EditViewName=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\AccessCOM.cpp
+
+[View11]
+CustomEditViewType=TEditView
+Module=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitExportToCoC.cpp
+CursorX=33
+CursorY=34
+TopLine=4
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitExportToCoC.cpp
+
+[View12]
+CustomEditViewType=TEditView
+Module=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitStartUp.cpp
+CursorX=64
+CursorY=385
+TopLine=239
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitStartUp.cpp
+
+[View13]
+CustomEditViewType=TEditView
+Module=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\Global.cpp
+CursorX=6
+CursorY=77
+TopLine=61
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\Global.h
+
+[View14]
+CustomEditViewType=TEditView
+Module=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitOption.cpp
+CursorX=1
+CursorY=20
+TopLine=1
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitOption.h
+
+[View15]
+CustomEditViewType=TEditView
+Module=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitOEEForm.cpp
+CursorX=27
+CursorY=91
+TopLine=121
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitOEEForm.cpp
+
+[View16]
+CustomEditViewType=TEditView
+Module=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitProduction.cpp
+CursorX=15
+CursorY=725
+TopLine=695
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitProduction.cpp
+
+[View17]
+CustomEditViewType=TEditView
+Module=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitSeparator.cpp
+CursorX=49
+CursorY=267
+TopLine=245
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitSeparator.cpp
+
+[View18]
+CustomEditViewType=TEditView
+Module=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitReport.cpp
+CursorX=30
+CursorY=4674
+TopLine=4658
+LeftCol=1
+Elisions=
+Bookmarks={1,1263,1}{2,2003,22}{3,1095,15}{9,3969,1}
+EditViewName=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitReport.cpp
+
+[View19]
+CustomEditViewType=TEditView
+Module=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitProducts.cpp
+CursorX=67
+CursorY=1
+TopLine=1
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitProducts.cpp
+
+[View20]
+CustomEditViewType=TEditView
+Module=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitLineStatus.cpp
+CursorX=130
+CursorY=452
+TopLine=421
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitLineStatus.cpp
+
+[View21]
+CustomEditViewType=TEditView
+Module=C:\Documents and Settings\jsolecki\My Documents\Programowanie\OdczytExcel\ExcelCOM.cpp
+CursorX=57
+CursorY=26
+TopLine=1
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\Documents and Settings\jsolecki\My Documents\Programowanie\OdczytExcel\ExcelCOM.cpp
+
+[View22]
+CustomEditViewType=TEditView
+Module=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitFormCoCincompatibility.cpp
+CursorX=39
+CursorY=21
+TopLine=1
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitFormCoCincompatibility.cpp
+
+[View23]
+CustomEditViewType=TEditView
+Module=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\UnitMainBooth.cpp
+CursorX=7
+CursorY=18
+TopLine=1
+LeftCol=1
+Elisions=
+Bookmarks={1,599,6}{2,785,1}
+EditViewName=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\UnitMainBooth.cpp
+
+[View24]
+CustomEditViewType=TEditView
+Module=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\UnitStringGridMagnification.cpp
+CursorX=28
+CursorY=30
+TopLine=7
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\UnitStringGridMagnification.cpp
+
+[View25]
+CustomEditViewType=TEditView
+Module=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\DetailFormBooth.cpp
+CursorX=17
+CursorY=191
+TopLine=184
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\DetailFormBooth.h
+
+[View26]
+CustomEditViewType=TEditView
+Module=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\UnitReadShiftData.cpp
+CursorX=14
+CursorY=21
+TopLine=1
+LeftCol=1
+Elisions=
+Bookmarks={1,1115,7}
+EditViewName=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\UnitReadShiftData.cpp
+
+[View27]
+CustomEditViewType=TEditView
+Module=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\UnitProductsBooth.cpp
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\UnitProductsBooth.h
+
+[View28]
+CustomEditViewType=TEditView
+Module=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\BoothClient.cpp
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\BoothClient.cpp
+
+[View29]
+CustomEditViewType=TEditView
+Module=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\GlobalBooth.cpp
+CursorX=41
+CursorY=356
+TopLine=314
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\GlobalBooth.cpp
+
+[View30]
+CustomEditViewType=TEditView
+Module=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\UnitStartUpBooth.cpp
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\Users\jsolecki\Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\BoothClient\UnitStartUpBooth.cpp
+
+[View31]
+CustomEditViewType=TEditView
+Module=C:\Users\jsolecki\Documents\RAD Studio\Projects\Trials\Trials.cpp
+CursorX=61
+CursorY=34
+TopLine=12
+LeftCol=1
+Elisions=
+Bookmarks=
+EditViewName=C:\Users\jsolecki\Documents\RAD Studio\Projects\Trials\Trials.cpp
+
+[Watches]
+Count=0
+
+[WatchWindow]
+WatchColumnWidth=120
+WatchShowColumnHeaders=1
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=0
+Width=3823
+Height=1183
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=3823
+ClientHeight=1183
+TBDockHeight=212
+LRDockWidth=13599
+Dockable=1
+StayOnTop=0
+
+[Breakpoints]
+Count=5
+Breakpoint0='C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitMainEntity.cpp',383,'',0,1,'',1,0,0,'',1,'','','',0,''
+Breakpoint1='C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\AccessCOM.cpp',1252,'',0,1,'',1,0,0,'',1,'','','',0,''
+Breakpoint2='C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\UnitMainEntity.cpp',522,'',0,1,'',1,0,0,'',1,'','','',0,''
+Breakpoint3='C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\AccessCOM.cpp',2030,'',0,1,'',1,0,0,'',1,'','','',0,''
+Breakpoint4='C:\Documents and Settings\jsolecki\My Documents\Programowanie\XE2\NowyRaportCoatera MSSQL\AccessCOM.cpp',1803,'',0,1,'',1,0,0,'',1,'','','',0,''
+
+[EmbarcaderoWin32Debugger_AddressBreakpoints]
+Count=0
+
+[EmbarcaderoOSXDebugger_AddressBreakpoints]
+Count=0
+
+[Main Window]
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=0
+State=2
+Left=146
+Top=269
+Width=8932
+Height=8519
+MaxLeft=-5
+MaxTop=-10
+MaxWidth=8932
+MaxHeight=8519
+ClientWidth=10000
+ClientHeight=9788
+BottomPanelSize=8926
+BottomPanelClients=EditWindow0
+BottomPanelData=0000080000000000000000000000000000000000000000000000000100000000000000000C0000004564697457696E646F775F30FFFFFFFF
+
+[ProjectManager]
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=0
+Width=2000
+Height=4356
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=2000
+ClientHeight=4356
+TBDockHeight=5894
+LRDockWidth=2349
+Dockable=1
+StayOnTop=0
+
+[MessageView]
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=23
+Width=10000
+Height=1356
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=10000
+ClientHeight=1356
+TBDockHeight=1356
+LRDockWidth=2771
+Dockable=1
+StayOnTop=0
+
+[ToolForm]
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=0
+Width=2000
+Height=2587
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=2000
+ClientHeight=2587
+TBDockHeight=7154
+LRDockWidth=2000
+Dockable=1
+StayOnTop=0
+
+[PropertyInspector]
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=420
+Width=1896
+Height=3625
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1896
+ClientHeight=3625
+TBDockHeight=9029
+LRDockWidth=1896
+Dockable=1
+StayOnTop=0
+SplitPos=111
+
+[TFileExplorerForm]
+PercentageSizes=1
+Create=1
+Visible=0
+Docked=1
+State=0
+Left=-1536
+Top=-101
+Width=2844
+Height=6202
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=2844
+ClientHeight=6202
+TBDockHeight=6202
+LRDockWidth=2844
+Dockable=1
+StayOnTop=0
+
+[TemplateView]
+PercentageSizes=1
+Create=1
+Visible=0
+Docked=1
+State=0
+Left=-1728
+Top=-101
+Width=276
+Height=356
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=276
+ClientHeight=356
+TBDockHeight=356
+LRDockWidth=276
+Dockable=1
+StayOnTop=0
+Name=120
+Description=334
+filter=1
+
+[DebugLogView]
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=0
+Width=3823
+Height=1183
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=3823
+ClientHeight=1183
+TBDockHeight=413
+LRDockWidth=4948
+Dockable=1
+StayOnTop=0
+
+[ThreadStatusWindow]
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=0
+Width=3823
+Height=1183
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=3823
+ClientHeight=1183
+TBDockHeight=212
+LRDockWidth=7406
+Dockable=1
+StayOnTop=0
+Column0Width=145
+Column1Width=100
+Column2Width=115
+Column3Width=250
+
+[LocalVarsWindow]
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=0
+Width=3823
+Height=1183
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=3823
+ClientHeight=1183
+TBDockHeight=1538
+LRDockWidth=3479
+Dockable=1
+StayOnTop=0
+
+[CallStackWindow]
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=0
+Width=3823
+Height=1183
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=3823
+ClientHeight=1183
+TBDockHeight=2058
+LRDockWidth=3479
+Dockable=1
+StayOnTop=0
+
+[FindReferencsForm]
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=0
+Width=2339
+Height=1240
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=2339
+ClientHeight=1240
+TBDockHeight=2317
+LRDockWidth=2823
+Dockable=1
+StayOnTop=0
+
+[RefactoringForm]
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=0
+Width=2339
+Height=1240
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=2339
+ClientHeight=1240
+TBDockHeight=3202
+LRDockWidth=2823
+Dockable=1
+StayOnTop=0
+
+[ToDo List]
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=0
+Width=2339
+Height=1240
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=2339
+ClientHeight=1240
+TBDockHeight=1154
+LRDockWidth=3677
+Dockable=1
+StayOnTop=0
+Column0Width=314
+Column1Width=30
+Column2Width=150
+Column3Width=172
+Column4Width=129
+SortOrder=4
+ShowHints=1
+ShowChecked=1
+
+[DataExplorer]
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=0
+Width=2000
+Height=8788
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=2000
+ClientHeight=8788
+TBDockHeight=4885
+LRDockWidth=7151
+Dockable=1
+StayOnTop=0
+
+[CppChecks]
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=0
+Width=2339
+Height=1240
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=2339
+ClientHeight=1240
+TBDockHeight=2221
+LRDockWidth=3698
+Dockable=1
+StayOnTop=0
+
+[ModelViewTool]
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=0
+Width=2000
+Height=8788
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=2000
+ClientHeight=8788
+TBDockHeight=4885
+LRDockWidth=5307
+Dockable=1
+StayOnTop=0
+
+[ClassBrowserTool]
+PercentageSizes=1
+Create=1
+Visible=0
+Docked=1
+State=0
+Left=-182
+Top=-101
+Width=1844
+Height=3144
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1844
+ClientHeight=3144
+TBDockHeight=3144
+LRDockWidth=1844
+Dockable=1
+StayOnTop=0
+
+[MetricsView]
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=0
+Width=2339
+Height=1240
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=2339
+ClientHeight=1240
+TBDockHeight=4827
+LRDockWidth=3562
+Dockable=1
+StayOnTop=0
+
+[QAView]
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=0
+Width=2339
+Height=1240
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=2339
+ClientHeight=1240
+TBDockHeight=4827
+LRDockWidth=3562
+Dockable=1
+StayOnTop=0
+
+[BreakpointWindow]
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=0
+Width=3823
+Height=1183
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=3823
+ClientHeight=1183
+TBDockHeight=1548
+LRDockWidth=8745
+Dockable=1
+StayOnTop=0
+Column0Width=200
+Column1Width=75
+Column2Width=200
+Column3Width=200
+Column4Width=200
+Column5Width=75
+Column6Width=75
+
+[StructureView]
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=0
+Width=1896
+Height=3558
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1896
+ClientHeight=3558
+TBDockHeight=3673
+LRDockWidth=1896
+Dockable=1
+StayOnTop=0
+
+[Item__6A6C0F8B_01A1_4681_BE6C_415858C81E8F_]
+PercentageSizes=1
+Create=1
+Visible=0
+Docked=0
+State=0
+Left=0
+Top=0
+Width=2745
+Height=2923
+MaxLeft=-5
+MaxTop=-10
+ClientWidth=2661
+ClientHeight=2596
+TBDockHeight=2923
+LRDockWidth=2745
+Dockable=1
+StayOnTop=0
+
+[Item__AD1C156F_C9E5_40A1_876F_728CBC647D5D_]
+PercentageSizes=1
+Create=1
+Visible=0
+Docked=0
+State=0
+Left=0
+Top=0
+Width=2745
+Height=2923
+MaxLeft=-5
+MaxTop=-10
+ClientWidth=2661
+ClientHeight=2596
+TBDockHeight=2923
+LRDockWidth=2745
+Dockable=1
+StayOnTop=0
+
+[Item__0CA5EFB5_542C_498F_A410_F4A5076E35ED_]
+PercentageSizes=1
+Create=1
+Visible=0
+Docked=0
+State=0
+Left=0
+Top=0
+Width=2745
+Height=2923
+MaxLeft=-5
+MaxTop=-10
+ClientWidth=2661
+ClientHeight=2596
+TBDockHeight=2923
+LRDockWidth=2745
+Dockable=1
+StayOnTop=0
+
+[Item__010A724C_3C7B_480B_BF27_8192C32C9C0E_]
+PercentageSizes=1
+Create=1
+Visible=0
+Docked=0
+State=0
+Left=0
+Top=0
+Width=2745
+Height=2923
+MaxLeft=-5
+MaxTop=-10
+ClientWidth=2661
+ClientHeight=2596
+TBDockHeight=2923
+LRDockWidth=2745
+Dockable=1
+StayOnTop=0
+
+[Item__DE4BD091_1D08_4D00_B823_ABD09E9EBFCA_]
+PercentageSizes=1
+Create=1
+Visible=0
+Docked=0
+State=0
+Left=0
+Top=0
+Width=2745
+Height=2923
+MaxLeft=-5
+MaxTop=-10
+ClientWidth=2661
+ClientHeight=2596
+TBDockHeight=2923
+LRDockWidth=2745
+Dockable=1
+StayOnTop=0
+
+[Item__8A0AA136_D1EB_4684_92F3_417CDA72879A_]
+PercentageSizes=1
+Create=1
+Visible=0
+Docked=0
+State=0
+Left=0
+Top=0
+Width=2745
+Height=2923
+MaxLeft=-5
+MaxTop=-10
+ClientWidth=2661
+ClientHeight=2596
+TBDockHeight=2923
+LRDockWidth=2745
+Dockable=1
+StayOnTop=0
+
+[Item__75610DE4_BABE_42A4_930D_C40378349D63_]
+PercentageSizes=1
+Create=1
+Visible=0
+Docked=0
+State=0
+Left=0
+Top=0
+Width=2745
+Height=2923
+MaxLeft=-5
+MaxTop=-10
+ClientWidth=2661
+ClientHeight=2596
+TBDockHeight=2923
+LRDockWidth=2745
+Dockable=1
+StayOnTop=0
+
+[Item__C74C7DBB_4D99_4FF4_BABE_F02A005254E6_]
+PercentageSizes=1
+Create=1
+Visible=0
+Docked=0
+State=0
+Left=0
+Top=0
+Width=2745
+Height=2923
+MaxLeft=-5
+MaxTop=-10
+ClientWidth=2661
+ClientHeight=2596
+TBDockHeight=2923
+LRDockWidth=2745
+Dockable=1
+StayOnTop=0
+
+[Item__CE401FF6_F956_4BDB_9F54_088BD85F0CF4_]
+PercentageSizes=1
+Create=1
+Visible=0
+Docked=0
+State=0
+Left=0
+Top=0
+Width=2745
+Height=2923
+MaxLeft=-5
+MaxTop=-10
+ClientWidth=2661
+ClientHeight=2596
+TBDockHeight=2923
+LRDockWidth=2745
+Dockable=1
+StayOnTop=0
+
+[BorlandEditorCodeExplorer@EditWindow0]
+PercentageSizes=1
+Create=1
+Visible=0
+Docked=0
+State=0
+Left=0
+Top=0
+Width=1823
+Height=6183
+MaxLeft=-5
+MaxTop=-10
+ClientWidth=1740
+ClientHeight=5856
+TBDockHeight=6183
+LRDockWidth=1823
+Dockable=1
+StayOnTop=0
+
+[DockHosts]
+DockHostCount=5
+
+[DockSite0]
+HostDockSite=DockBottomCenterPanel
+DockSiteType=1
+PercentageSizes=1
+Create=1
+Visible=0
+Docked=1
+State=0
+Left=0
+Top=0
+Width=2339
+Height=1481
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=2339
+ClientHeight=1481
+TBDockHeight=1481
+LRDockWidth=2339
+Dockable=1
+StayOnTop=0
+TabPosition=1
+ActiveTabID=RefactoringForm
+TabDockClients=RefactoringForm,FindReferencsForm,ToDo List,CppChecks,MetricsView,QAView
+
+[DockSite1]
+HostDockSite=DockBottomPanel
+DockSiteType=1
+PercentageSizes=1
+Create=1
+Visible=0
+Docked=1
+State=0
+Left=0
+Top=0
+Width=3823
+Height=1423
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=3823
+ClientHeight=1423
+TBDockHeight=1423
+LRDockWidth=3823
+Dockable=1
+StayOnTop=0
+TabPosition=1
+ActiveTabID=DebugLogView
+TabDockClients=DebugLogView,BreakpointWindow,ThreadStatusWindow,CallStackWindow,WatchWindow,LocalVarsWindow
+
+[DockSite2]
+HostDockSite=DockRightPanel
+DockSiteType=1
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=23
+Width=2000
+Height=4596
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=2000
+ClientHeight=4596
+TBDockHeight=9029
+LRDockWidth=2000
+Dockable=1
+StayOnTop=0
+TabPosition=1
+ActiveTabID=ProjectManager
+TabDockClients=ProjectManager,ModelViewTool,DataExplorer,TFileExplorerForm
+
+[DockSite3]
+HostDockSite=DockLeftPanel
+DockSiteType=1
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=23
+Width=1896
+Height=3558
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1896
+ClientHeight=3558
+TBDockHeight=9029
+LRDockWidth=1896
+Dockable=1
+StayOnTop=0
+TabPosition=1
+ActiveTabID=StructureView
+TabDockClients=StructureView,ClassBrowserTool
+
+[DockSite4]
+HostDockSite=DockRightPanel
+DockSiteType=1
+PercentageSizes=1
+Create=1
+Visible=1
+Docked=1
+State=0
+Left=0
+Top=528
+Width=2000
+Height=2587
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=2000
+ClientHeight=2587
+TBDockHeight=9029
+LRDockWidth=2000
+Dockable=1
+StayOnTop=0
+TabPosition=1
+ActiveTabID=ToolForm
+TabDockClients=ToolForm,TemplateView
+
+[ActiveProject]
+ActiveProject=1
+
